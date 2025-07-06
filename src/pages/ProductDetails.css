@@ -1,0 +1,33 @@
+
+.product-details-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.product-details-image {
+  flex: 1 1 300px;
+  max-width: 350px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+.product-details-info {
+  flex: 2 1 350px;
+}
+.product-details-info h2 {
+  margin-top: 0;
+}
+.product-details-info button {
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #222;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
