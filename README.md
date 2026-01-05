@@ -4,8 +4,6 @@ Shopease is a modern e-commerce web application designed to provide a smooth and
 
 🚀 Live Demo
 
-👉 Live Website:
-
 [Click here to view the live demo](https://your-deployment-link-here)
 
 
@@ -34,14 +32,6 @@ Package Manager: npm
 Version Control: Git & GitHub
 
 
-📁 Project Structure
-shopease/
-│
-├── src/                # Source code
-├── .gitignore          # Ignored files
-├── package.json        # Project dependencies
-├── package-lock.json   # Dependency lock file
-└── README.md           # Project documentation
 
 ⚙️ Installation & Setup
 
